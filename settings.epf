@@ -4,3 +4,10 @@ file_export_version=3.0
 #
 #Don't ask for confirmation on exit
 /instance/org.eclipse.ui.ide/EXIT_PROMPT_ON_CLOSE_LAST_WINDOW=false
+
+#Don't search for Zend Server
+/instance/com.zend.php.ui/com.phpserver.autodetection=false
+
+#Hide toolbar and perspective bar to have more screen space
+/instance/org.eclipse.ui.workbench/coolBarVisible=false
+/instance/org.eclipse.ui.workbench/perspectiveBarVisible=false
