@@ -1,7 +1,5 @@
 file_export_version=3.0
 
-#
-#
 #Don't ask for confirmation on exit
 /instance/org.eclipse.ui.ide/EXIT_PROMPT_ON_CLOSE_LAST_WINDOW=false
 
@@ -11,3 +9,17 @@ file_export_version=3.0
 #Hide toolbar and perspective bar to have more screen space
 /instance/org.eclipse.ui.workbench/coolBarVisible=false
 /instance/org.eclipse.ui.workbench/perspectiveBarVisible=false
+
+#Font settings - Consolas is the BEST!
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.texteditor.blockSelectionModeFont=1|Consolas|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jface.textfont=1|Consolas|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
+/instance/org.eclipse.jdt.ui/org.eclipse.jface.textfont=1|Consolas|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.jface.textfont=1|Consolas|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|-18|3|2|1|49|Consolas;
+
+#Content Assist
+/instance/org.eclipse.php.core/contentAssistAutoactivationDelay=0
+/instance/org.eclipse.php.core/contentAssistInsertCompletion=false
+
+#Won't give my usage data to anybody
+/instance/org.zend.usagedata/org.zend.usagedata.ask=false
+/instance/org.zend.usagedata/org.zend.usagedata.enabled=false
