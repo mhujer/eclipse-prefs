@@ -37,3 +37,14 @@ file_export_version=3.0
 
 #Disable "Welcome view" and some other plugins on startup - thanks http://forums.zend.com/viewtopic.php?f=59&t=108088
 /instance/org.eclipse.ui.workbench/PLUGINS_NOT_ACTIVATED_ON_STARTUP=com.zend.php.gateful.ui;com.zend.php.remoteproject.ui;org.eclipse.equinox.p2.ui.sdk.scheduler;org.eclipse.rse.ui;org.zend.php.common;org.zend.php.zendserver.deployment.ui;org.zend.usagedata;
+
+#Insert spaces for tabs
+/instance/org.eclipse.ui.editors/spacesForTabs=true
+
+#Show whitespace in the beginning or in the end of line
+/instance/org.eclipse.ui.editors/showEnclosedSpaces=false
+/instance/org.eclipse.ui.editors/showEnclosedTabs=false
+/instance/org.eclipse.ui.editors/showEnclosedIdeographicSpaces=false
+/instance/org.eclipse.ui.editors/showCarriageReturn=false
+/instance/org.eclipse.ui.editors/showLineFeed=false
+/instance/org.eclipse.ui.editors/showWhitespaceCharacters=true
