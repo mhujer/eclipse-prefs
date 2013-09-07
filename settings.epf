@@ -49,3 +49,7 @@ file_export_version=3.0
 /instance/org.eclipse.ui.editors/showCarriageReturn=false
 /instance/org.eclipse.ui.editors/showLineFeed=false
 /instance/org.eclipse.ui.editors/showWhitespaceCharacters=true
+
+#Sort the outline by name ASC
+/instance/org.eclipse.php.ui/SortingAction.isChecked=true
+
