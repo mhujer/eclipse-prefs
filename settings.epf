@@ -53,3 +53,5 @@ file_export_version=3.0
 #Sort the outline by name ASC
 /instance/org.eclipse.php.ui/SortingAction.isChecked=true
 
+#Run Search in background
+/instance/org.eclipse.ui.workbench/RUN_IN_BACKGROUND=true
