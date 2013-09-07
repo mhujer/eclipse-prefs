@@ -5,6 +5,7 @@ file_export_version=3.0
 
 #Don't search for Zend Server
 /instance/com.zend.php.ui/com.phpserver.autodetection=false
+/instance/org.zend.php.common/com.phpserver.autodetection=false
 
 #Hide toolbar and perspective bar to have more screen space
 /instance/org.eclipse.ui.workbench/coolBarVisible=false
