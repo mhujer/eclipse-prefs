@@ -55,3 +55,9 @@ file_export_version=3.0
 
 #Run Search in background
 /instance/org.eclipse.ui.workbench/RUN_IN_BACKGROUND=true
+
+#Refresh file on access
+/instance/org.eclipse.core.resources/refresh.lightweight.enabled=true
+
+#Refresh workspace on startup
+/instance/org.eclipse.ui.ide/REFRESH_WORKSPACE_ON_STARTUP=true
